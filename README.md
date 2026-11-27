@@ -1,5 +1,4 @@
-# Vcttmvmam_Bzivatibwz-I
-Nullenese Translator
+# Vcttmvmam_Bzivatibwz-I (Nullenese Translator)
 
 Nullenese Translator for the soldiers of Null on the Unstable SMP, written with java.
 
