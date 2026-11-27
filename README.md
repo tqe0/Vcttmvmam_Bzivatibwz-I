@@ -1,6 +1,6 @@
 # Vcttmvmam_Bzivatibwz-I (Nullenese Translator)
 
-Nullenese Translator for the soldiers of Null on the Unstable SMP, written with java.
+Nullenese Translator for the soldiers of Null on the Unstable SMP, written with Java.
 
 ## what is Nullenese?
 
